@@ -1,5 +1,5 @@
-title:  "Millennial"
-tagline: "a Jekyll theme for running a blog or publication"
+title:  "Cassandra.Cardiff.Yoga"
+tagline: "yoga is for everyone. Come practice with me."
 
 # Authors documented under _data
 
@@ -9,18 +9,21 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Videos', folder: 'pages', file: 'videos.html'}
+- {name: 'Testimonials', folder: 'pages', file: 'testimonials.html'}
+- {name: 'My Classes', folder: 'pages', file: 'classes.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+#- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+#- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+# - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'twitter', link: 'https://twitter.com/casscardiff'}
+- {icon: 'facebook', link: 'https://www.facebook.com/cassandra.cardiff'}
+- {icon: 'instagram', link: 'https://instagram.com/cascardiff'}
+- {icon: 'envelope', link: 'mailto:ccardiff@dal.ca'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
