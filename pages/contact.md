@@ -29,17 +29,13 @@ title: Contact
 
             <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
           </div>
-          <div class="form-group">
-            <label for="InputReal">What is 4+3? (Simple Spam Checker)</label>
-            <input type="text" class="form-control" name="InputReal" id="InputReal" required>
-          </div>
+          
           <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right"> 
       </form>
     </div>
     <hr class="hidden-lg">
     <div class="col-lg-5 col-md-offset-1">
       <address>
-        <h3>Contact</h3>
         <p class="lead">Cassandra Cardiff<br>
         Oxford, Oxfordshire</a><br>
         Email: ccardiff@dal.ca</p>
