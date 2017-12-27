@@ -4,10 +4,6 @@ title: Contact
 ---
 
 <main class="container">
-  <header class="page-header">
-    <h1 class="entry-title">Contact</h1>
-  </header>
-    
     <div class="row">
       <div class="col-lg-6">
         <form role="form" action="https://formspree.io/ccardiff@dal.ca" method="POST">
