@@ -8,4 +8,5 @@ title: Contact
     <input type="text" name="name">
     <input type="email" name="_replyto">
     <input type="submit" value="Send">
+    <input type="hidden" name="_subject" value="Website Query" />
 </form>
