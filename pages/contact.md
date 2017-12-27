@@ -26,7 +26,7 @@ title: Contact
             <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
           </div>
           
-          <input type="submit" name="submit" id="submit" value="Send" class="btn btn-info pull-right"> 
+          <input type="submit" name="submit" id="submit" value="Send"> 
       </form>
     </div>
   </div>
