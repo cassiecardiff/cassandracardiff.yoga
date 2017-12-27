@@ -33,13 +33,5 @@ title: Contact
           <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right"> 
       </form>
     </div>
-    <hr class="hidden-lg">
-    <div class="col-lg-5 col-md-offset-1">
-      <address>
-        <p class="lead">Cassandra Cardiff<br>
-        Oxford, Oxfordshire</a><br>
-        Email: ccardiff@dal.ca</p>
-    </address>
-    </div>
   </div>
 </main>
